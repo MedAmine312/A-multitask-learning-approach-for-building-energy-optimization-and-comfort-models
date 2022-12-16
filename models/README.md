@@ -1,0 +1,1 @@
+The book directory contains the scritps in .ipynb format.
