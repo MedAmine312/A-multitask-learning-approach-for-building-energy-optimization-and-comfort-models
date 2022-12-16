@@ -1,5 +1,8 @@
 # A-multitask-learning-approach-for-building-energy-optimization-and-comfort-models
 
+## Description
+This project aims to develop a multitask optimization model that simultaneously addresses the comfort of indi- viduals and energy use for more efficient energy consump- tion. This model will integrate various control strategies and optimization techniques to strike a balance between occupant comfort and energy efficiency. It will consist of a thermal comfort prediction model, a time series energy load prediction model, an occupancy model, and a general opti- mization model. By implementing this model, we hope to offer a solution that enhances the thermal comfort of build- ing occupants while also reducing energy consumption
+
 ## Authors
 * Mohamed Amine Belyamani
 * Jaime Bowen Varela
